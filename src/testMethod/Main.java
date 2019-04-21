@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int i;
         i = x(8);
+        System.out.println();
     }
 
     static int x(int n) {
