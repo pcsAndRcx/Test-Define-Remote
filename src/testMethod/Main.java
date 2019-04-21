@@ -6,6 +6,7 @@ public class Main {
         int i;
         i = x(8);
         System.out.println();
+        System.out.println();
     }
 
     static int x(int n) {
